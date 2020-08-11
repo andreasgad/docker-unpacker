@@ -1,4 +1,4 @@
-# Last try 
+# Updated pad tdc mapping.
 FROM munken/ucesb
 
  
