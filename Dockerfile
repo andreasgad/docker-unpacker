@@ -1,4 +1,4 @@
-# Updated pad tdc mapping.
+# Updated
 FROM munken/ucesb
 
  
