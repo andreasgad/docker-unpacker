@@ -1,5 +1,5 @@
 # Updated
-FROM munken/ucesb
+FROM ausadocker/ucesb
 
  
 RUN git clone https://gitlab.au.dk/ausa/unpacker.git \
